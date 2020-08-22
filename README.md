@@ -1,4 +1,4 @@
-# ML-breast-cancer-diagnosis
+# MIT Breast Cancer Diagnosis Machine Learning Project
 
 ## Project Overview:
 This repo contains a Machine Learning research project (completed at MIT for an MIT STEM research symposium) exploring the possibility of using Machine Learning to predict breast cancer diagnoses (malignant or benign) based on a number of quantitative observations of a mass of cells in a breast cancer lesion including area, compactness, and cell concavity. Using a number of ML and data analysis modules (listed below) in Python, we first cleaned a dataset with approximately 600 observation entries and used a correlation heat map to determine which features in the data had the highest correlation values in relation to the final diagnosis. We then highlighted additional interesting correlations between other features. Finally, using the previously selected to train our predictors, we trained predictors on a sample of the data using Machine Learning methods such as Linear Regression, Logistic Regression, SVM, Decision Tree, KNN, etc. We then selected the most effective methods and documented these methods in the provided file.
